@@ -1,0 +1,71 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 330px;
+  height: 157px;
+  align-items: flex-start;
+}
+.rectangle40 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 17.8344%;
+  bottom: 52.8662%;
+  outline: solid 1px #787676;
+  outline-offset: -1px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: inset 0px 3px 3px 0px #0000001f;
+}
+.rectangle41 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 70.7006%;
+  bottom: 0;
+  outline: solid 1px #787676;
+  outline-offset: -1px;
+  border-radius: 12px;
+  background-color: #fff;
+  box-shadow: inset 0px 3px 3px 0px #0000001f;
+}
+.removeRedEye {
+  position: absolute;
+  left: 87.5758%;
+  right: 5.1515%;
+  top: 78.3439%;
+  bottom: 6.3694%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.emailAddress {
+  color: #787676;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 66.0606%;
+  top: 0;
+  bottom: 83.4395%;
+  justify-content: center;
+  flex-direction: column;
+}
+.password {
+  color: #787676;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0;
+  right: 66.0606%;
+  top: 54.1401%;
+  bottom: 29.2994%;
+  justify-content: center;
+  flex-direction: column;
+}
